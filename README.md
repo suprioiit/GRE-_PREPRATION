@@ -99,7 +99,7 @@ q #user input to quit program
  
 # Miscellanous
 You may contact us by opening an issue on this repo. Please allow 2-3 days of time to address the issue.
-# LICENSE: MIT
+## LICENSE: MIT
 
 
    
