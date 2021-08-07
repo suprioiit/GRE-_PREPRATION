@@ -95,7 +95,11 @@ definition:
 made tough by habitual exposure
 
 q #user input to quit program
-# It will saved learn vocabulary in json file 
+ It will saved learn vocabulary in json file
+ 
+# Miscellanous
+You may contact us by opening an issue on this repo. Please allow 2-3 days of time to address the issue.
+LICENSE: MIT
 
 
    
