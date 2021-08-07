@@ -24,8 +24,10 @@ A tool to prepare for GRE using command line terminal. Build in process.
 3. Tests: Take tests to memorize the word meanings
 
    Supports two different types of tests
+   
       A. MCQ
       B. Meaning to words
+      
 Word Search: Search for any word in the vocabulary
 
 The vocabulary consists of all the words in all the lists.
