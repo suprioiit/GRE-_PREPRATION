@@ -31,9 +31,11 @@ A tool to prepare for GRE using command line terminal. Build in process.
       
 4. Word Search: Search for any word in the vocabulary
 
-    The vocabulary consists of all the words in all the lists.
+   A.The vocabulary consists of all the words in all the lists.
     
-    Learn with Flashcards: simple flash cards with reviewing words.
+5.Learn with Flashcards: simple flash cards with reviewing words.
 
-The word with repetation display randomly. Number of repetation is set by users.
-Store learned vocabulary in tested_words_flash.json
+   A.The word with repetation display randomly. Number of repetation is set by users.
+   
+   B.Store learned vocabulary in tested_words_flash.json
+   
