@@ -70,4 +70,32 @@ Which list do you want to prepare? Here are the options:
 How many words do you want to learn today?
 20 #user input
 
+you are ready to learn in clear prompt
+
+press enter for the next word or type 'exp' for explanation or enter a word anytime to search in the vocabulary
+--------------------------------------------------------
+
+1. inured  ::  made tough by habitual exposure
+exp
+
+short_explanation:
+
+If you have gotten so many mosquito bites in your life that they no longer bother you, you have become inured to them. This means you have become accustomed to tolerating them.
+
+long_explanation:
+
+This adjective is derived from the 16th-century phrase in ure, meaning “in use” or “in practice.” When you are inured to something, you have probably had a lot of persistent exposure to it, and it’s usually something negative. People can become inured to pain, inured to violence, and even inured to the sound of a little yappy dog that won’t stop barking.
+
+synonyms:
+
+enured, hardened
+
+definition:
+
+made tough by habitual exposure
+
+q #user input to quit program
+# It will saved learn vocabulary in json file 
+
+
    
