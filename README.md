@@ -39,3 +39,7 @@ A tool to prepare for GRE using command line terminal. Build in process.
    
    B.Store learned vocabulary in tested_words_flash.json
    
+# RUN
+
+Just follow the instruction after running ./greworld.py
+   
