@@ -26,12 +26,14 @@ A tool to prepare for GRE using command line terminal. Build in process.
    Supports two different types of tests
    
       A. MCQ
+      
       B. Meaning to words
       
-Word Search: Search for any word in the vocabulary
+4. Word Search: Search for any word in the vocabulary
 
-The vocabulary consists of all the words in all the lists.
-Learn with Flashcards: simple flash cards with reviewing words.
+    The vocabulary consists of all the words in all the lists.
+    
+    Learn with Flashcards: simple flash cards with reviewing words.
 
 The word with repetation display randomly. Number of repetation is set by users.
 Store learned vocabulary in tested_words_flash.json
