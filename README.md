@@ -42,4 +42,32 @@ A tool to prepare for GRE using command line terminal. Build in process.
 # RUN
 
 Just follow the instruction after running ./greworld.py
+
+./greWorld.py
+
+Welcome to the GRE World!
+Tell us What would you like to do
+
+------------------------------------
+1. Display all the available lists
+2. Add a list from Vocabulary.com
+3. Learn from a list
+4. Take a test
+5. Update the local Vocabulary
+6. Search a word
+7. Vocab length
+8. FlashCard
+9. Exit
+------------------------------------
+3 #user input
+Which list do you want to prepare? Here are the options:
+
+1. Manhattan GRE Complete
+2. GRE Complete vocabulary list
+3. Barren 333
+4. 900+ essential gre words
+
+How many words do you want to learn today?
+20 #user input
+
    
